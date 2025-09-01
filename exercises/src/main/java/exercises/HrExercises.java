@@ -1,7 +1,6 @@
 package exercises;
 
 import java.util.List;
-import java.util.concurrent.atomic.AtomicInteger;
 
 
 public class HrExercises {
@@ -58,6 +57,5 @@ public class HrExercises {
 
     public static void main(String[] args) {
         System.out.println("*************** Hello CesarLead!!! ***************");
-
     }
 }
